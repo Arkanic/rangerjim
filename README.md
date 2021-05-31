@@ -1,5 +1,7 @@
 # Setup
 
+Node v6.11.5 required
+
 1.  `yarn install`
 
 # Run locally
