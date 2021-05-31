@@ -4,6 +4,11 @@ Node v6.11.5 required
 
 1.  `yarn install`
 
+# Gitpod script
+
+1. `nvm install v6.11.5`
+2. `./run-github.sh`
+
 # Run locally
 
 1.  Start the NodeJS server: `yarn start`
